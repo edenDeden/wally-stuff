@@ -1,7 +1,5 @@
 [package]
-name = "edendeden/my-package"
+name = "eden/my-package"
 version = "0.1.0"
-registry = "https://github.com/edendeden/wally-stuff"
+registry = "https://github.com/edenDeden/wally-stuff"
 realm = "server"
-
-[dependencies]
