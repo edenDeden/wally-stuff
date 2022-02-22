@@ -1,0 +1,7 @@
+[package]
+name = "edendeden/my-package"
+version = "0.1.0"
+registry = "https://github.com/edendeden/wally-stuff"
+realm = "server"
+
+[dependencies]
